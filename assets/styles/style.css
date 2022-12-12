@@ -1,0 +1,42 @@
+/* font-family: 'Josefin Sans', sans-serif; */
+/* font-family: 'Quicksand', sans-serif; */
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+header{
+    text-align: center;
+    border-bottom: 4px solid rgb(108, 108, 108);
+    ;
+    font-family: 'Josefin Sans', sans-serif;
+}
+header a{
+    text-decoration: none;
+    color: rgb(108, 108, 108);
+    font-size: 18px;
+}
+header p{
+    color: rgb(69, 69, 69);
+}
+.title-section{
+    border-bottom: 2px solid grey;
+}
+.title-section h2{
+    font-weight: 500;
+    font-size: 38px;
+}
+.title-section p{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(80, 79, 79);
+}
+.skills-section{
+    border-bottom: 4px solid gray;
+}
+.skills-section h2{
+    font-size: 40px;
+    font-weight: bold;
+    border-bottom: 1px solid grey;
+}
+.skills-section p{
+    color: rgb(115, 114, 114);
+}
